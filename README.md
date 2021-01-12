@@ -7,8 +7,9 @@
 #### ...from Nigeria and I do content on web development and data science..... database (Machine learning, Deep learning and Artificial Intelligence). I really enjoy learning languages and frameworks like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development 
 
 ----------------------------------------------------------
-- 🔭 I’m currently working on investing in my self...💻 
-- 🌱 I’m currently learning dev & data things... - 💬 Ask me about my self and what i do... 
+- 🔭 I’m currently working and investing in my self...💻 
+- 🌱 I’m currently learning dev & data things... 
+- 💬 Ask me about my self and what i do... 
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 
 ## <h3 align="left">Languages and Tools:</h3>
