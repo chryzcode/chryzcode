@@ -1,4 +1,4 @@
-<img src="https://github.com/chryzcodez/chryzcodez/blob/main/welcome.gif" height= "300" width= "1500"/> 
+<img src="https://github.com/chryzcodez/chryzcodez/blob/main/giphy.gif" height= "300" width= "1500"/> 
 
 # WELCOME TO MY PROFILE_ 
 ![Web development, data science(AI, DL, ML)....database and technical writing](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
