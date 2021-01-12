@@ -1,16 +1,38 @@
-### Hi there 👋
+<img src="https://github.com/chryzcodez/chryzcodez/blob/main/welcome.gif" height= "300" width= "1500"/> 
 
-<!--
-**chryzcodez/chryzcodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WELCOME TO MY PROFILE_ 
+![Web development, data science(AI, DL, ML)....database and technical writing](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
 
-Here are some ideas to get you started:
+# Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
+#### ...from Nigeria and I do content on web development and data science..... database (Machine learning, Deep learning and Artificial Intelligence). I really enjoy learning languages and frameworks like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------
+- 🔭 I’m currently working on investing in my self...💻 
+- 🌱 I’m currently learning dev & data things... - 💬 Ask me about my self and what i do... 
+- 📫 How to reach me: alabaolanrewaju13@gmail.com
+
+## <h3 align="left">Languages and Tools:</h3>
+* <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> Python 
+* <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="30" width="40"/> Django
+* <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" width="40"/> Sqlite 
+-------------------------------------------------------------------------------------------------------
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
+
+<img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
+
+## Few of my blog post📝 
+* [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme) 
+* [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
+* [A SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer) 
+* [PROGRAMMING AS A STATE OF MIND: )](https://app.daily.dev/posts/UL8t1Q2hc) 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
+<a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chryz_codez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/chryz_codez/" height="30" width="40" /></a>
+<a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
+</p>
