@@ -27,8 +27,7 @@
 ## Few of my blog post📝 
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme) 
 * [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
-* [A SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer) 
-* [PROGRAMMING AS A STATE OF MIND: )](https://app.daily.dev/posts/UL8t1Q2hc) 
+* [A SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
