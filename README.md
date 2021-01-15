@@ -17,6 +17,7 @@
 * <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="30" width="40"/> Django
 * <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" width="40"/> Sqlite 
 -------------------------------------------------------------------------------------------------------
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
@@ -24,7 +25,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
 
-## Few of my blog post📝 
+## Few of my blog post📝...
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme) 
 * [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
 * [A SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer)  
