@@ -29,7 +29,7 @@
 * [THE YEAR 2021 ; THE DEV JOURNEY TO SUCCESS!](https://chryzcodez.hashnode.dev/the-year-2021-the-dev-journey-to-success)
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme) 
 * [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
-* [A SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer)  
+* [THE SELF TAUGHT DEVELOPER](https://chryzcodez.hashnode.dev/a-self-taught-developer)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
