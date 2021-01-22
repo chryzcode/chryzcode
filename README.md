@@ -17,7 +17,7 @@
 * <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="30" width="40"/> Django
 * <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" width="40"/> Sqlite 
 * <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/> Git
-* <img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/regex.svg" width="30" height="40"/>
+* <img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/regex.svg" width="30" height="40"/> Regex
 -------------------------------------------------------------------------------------------------------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
