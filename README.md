@@ -1,10 +1,8 @@
-<img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/giphy.gif" height= "300" width= "1500"/> 
-
-# WELCOME TO MY PROFILE_ 
+# Welcome to my Github Profile🤝_ 
 ![Web development, data science(AI, DL, ML)....database and technical writing](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
 
 # Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
-#### ...from Nigeria and I do content on web development and data science..... database (Machine learning, Deep learning and Artificial Intelligence). I really enjoy learning languages and frameworks like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development 
+#### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development 
 
 ----------------------------------------------------------
 - 🔭 I’m currently working and investing in my self...💻 
