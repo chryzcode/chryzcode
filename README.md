@@ -1,4 +1,4 @@
-# Welcome to my Github Profile🤝_ 
+# Welcome to my Github Profile_ 
 ![Web development, data science(AI, DL, ML)....database and technical writing](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
 
 # Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
@@ -31,7 +31,7 @@
 * [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
 
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
