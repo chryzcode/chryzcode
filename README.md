@@ -26,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
 
 ## My blog 📝...
-* [Python Built-in String Methods/ Functions 1 :)] (https://chryzcodez.hashnode.dev/python-built-in-string-methods-functions-1)
+* [Python Built-in String Methods/ Functions 1 :)](https://chryzcodez.hashnode.dev/python-built-in-string-methods-functions-1)
 * [THE YEAR 2021 ; THE DEV JOURNEY TO SUCCESS!](https://chryzcodez.hashnode.dev/the-year-2021-the-dev-journey-to-success)
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme) 
 * [HOW TO IMPROVE YOUR SKILLS AS A DEVELOPER 1](https://dev.to/chryz_codez/how-to-improve-your-skills-as-a-developer-1-53bf) 
