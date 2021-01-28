@@ -1,5 +1,5 @@
 # Welcome to my Github Profile_ 
-![Web development, data science(AI, DL, ML)....database and technical writing](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
+![any picture you wish](https://github.com/chryzcodez/chryzcodez/blob/main/laptop-office-internet-technology-177598.jpg)  
 
 # Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
 #### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development and working on open source projects to contribute to!
@@ -37,6 +37,5 @@
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chryz_codez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/chryz_codez/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
 </p>
