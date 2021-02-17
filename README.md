@@ -15,10 +15,10 @@
 * <img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/regex.svg" width="30" height="40"/> Regex
 -------------------------------------------------------------------------------------------------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
-<img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez1&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez1&" alt="chryzcodez1" />
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez1&show_icons=true&theme=radical" alt="chryzcodez1" />
+<img src="https://komarev.com/ghpvc/?username=chryzcodez1&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez1" /> </p> <p align="right">
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
