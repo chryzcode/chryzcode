@@ -5,7 +5,13 @@
 - 🔭 I’m currently working and investing in my self...💻 
 - 🌱 I’m currently learning dev & data things... 
 - 💬 Ask me about my self and what i do... 
-- 📫 How to reach me: alabaolanrewaju13@gmail.com/ [@chryz_codez](https://twitter.com/chryz_codez)
+- 👯 I’m looking for  collaborators & contributors on __[Open source](https://github.com/chryz-hub) [discord invite]<a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>__
+- 📝 I regularly write articles on __[Hashnode](https://hashnode.com/@chryzcodez)__
+- 📫 How to reach me: 
+  - alabaolanrewaju13@gmail.com
+  - [@chryz_codez](https://twitter.com/chryz_codez)
+- ⚡ Fun fact **I live beyond been a programmer**
+
 
 ## <h3 align="left">Languages and Tools:</h3>
 * <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> Python 
@@ -20,10 +26,15 @@
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
 <img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
 
-## <h3 align="left">Connect with me:</h3>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 </p>
