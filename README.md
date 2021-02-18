@@ -5,7 +5,7 @@
 - 🔭 I’m currently working and investing in my self...💻 
 - 🌱 I’m currently learning dev & data things... 
 - 💬 Ask me about my self and what i do... 
-- 👯 I’m looking for  collaborators & contributors on [Open source](https://github.com/chryz-hub) 
+- 👯 I’m looking for  collaborators & contributors on [chryz-hub](https://github.com/chryz-hub) 
   - Discord invite<a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
 - 📝 I regularly write articles on __[Hashnode](https://hashnode.com/@chryzcodez)__
 - 📫 How to reach me: 
