@@ -30,6 +30,16 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Time Management Tips  for Developer's Productivity.](https://chryzcodez.hashnode.dev//time-management-tips-for-developers-productivity-cklh1enev01qlf1s190zr44hx)
+- [7 Habit That Kills a Developer Career.](https://chryzcodez.hashnode.dev/7-habit-that-kills-a-developer-career-ckl81v32g00ggems1et3r40t1)
+- [7 Health Tips For Developers](https://chryzcodez.hashnode.dev/7-health-tips-for-developers-ckkxxvcxd004byos1h1o06s0y)
+- [7 Short Tips to Growth as a Developer](https://chryzcodez.hashnode.dev/7-short-tips-to-growth-as-a-developer-ckko955s504bz1es17e1dbc3f)
+- [Python Built-in String Methods/  Functions 1 :)](https://chryzcodez.hashnode.dev/python-built-in-string-methods-functions-1-ckkekyfbe04if00s15pjn9g5e)
+- [THE YEAR 2021 ; THE DEV JOURNEY TO SUCCESS!](https://chryzcodez.hashnode.dev/the-year-2021-the-dev-journey-to-success-ckk3rh0c600a2ios1gz0m2lp7)
+- [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme-ckjoj650c0abi8ls1cevh2jep)
+- [HOW TO HACK CODES!](https://chryzcodez.hashnode.dev/how-to-hack-codes-ckj1wv4i802uk36s1dn2u7ogm)
+- [TWITTER; THE GROWING DEVs PLATFORM](https://chryzcodez.hashnode.dev/twitter-the-growing-devs-platform-ckjcd31ji0ch4lvs1cwgg3gca)
+- [PROGRAMMING AS A STATE OF MIND: )](https://chryzcodez.hashnode.dev/programming-as-a-state-of-mind-ckiz5ns0z00ucpys18cxzar9u)
 <!-- HASHNODE_BLOG:END -->
 
 
