@@ -42,17 +42,6 @@
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
 
 
-### Blogs posts
----
-title: YOUR_TITLE_HERE
-slug: CUSTOM_SLUG_HERE
-tags: TAG_SLUG_1, TAG_SLUG_2
-cover: COVER_IMAGE_URL
-domain: YOUR_DOMAIN_NAME_HERE (e.g. sandeep.dev or sandeep.hashnode.dev)
----
-Enter article body here
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
