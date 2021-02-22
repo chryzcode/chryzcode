@@ -26,7 +26,7 @@
 - 📫 How to reach me: 
   - alabaolanrewaju13@gmail.com
   - [@chryz_codez](https://twitter.com/chryz_codez)
-- ⚡ Fun fact **I live beyond been a programmer**
+- ⚡ Fun fact **I live beyond been a developer**
 
 
 ## <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
-<img src="https://komarev.com/ghpvc/?username=chryzcodez&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcodez" /> </p> <p align="right">
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
