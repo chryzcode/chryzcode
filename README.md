@@ -38,9 +38,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />4
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
 
-## My Recent Axtivities
+## My Recent Activities
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
