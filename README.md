@@ -1,5 +1,20 @@
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+
 # Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
 #### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development!
+
+<p align="center">
+  <a href="https://github.com/chryzcodez?tab=followers">
+    <img src="https://img.shields.io/github/followers/chryzcodez?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/chryz_codez">
+    <img src="https://img.shields.io/twitter/follow/chryz_codez?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/c6RhGwcP5b">
+    <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
+  </a>
+</p>
 
 ----------------------------------------------------------
 - 🔭 I’m currently working and investing in my self...💻 
