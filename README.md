@@ -28,6 +28,10 @@
   - [@chryz_codez](https://twitter.com/chryz_codez)
 - ⚡ Fun fact **I live beyond been a developer**
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 
 ## <h3 align="left">Languages and Tools:</h3>
 * <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> Python 
