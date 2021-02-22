@@ -17,6 +17,6 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'chryzcodez'
-          COUNT: 10
+          COUNT: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
