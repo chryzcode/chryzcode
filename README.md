@@ -42,6 +42,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#508](https://github.com/EddieHubCommunity/support/issues/508) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#29](https://github.com/chryz-hub/chryz-hub.github.io/issues/29) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Opened issue [#28](https://github.com/chryz-hub/chryz-hub.github.io/issues/28) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❗️ Opened issue [#27](https://github.com/chryz-hub/chryz-hub.github.io/issues/27) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. ❗️ Opened issue [#26](https://github.com/chryz-hub/chryz-hub.github.io/issues/26) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
