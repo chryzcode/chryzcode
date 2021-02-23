@@ -63,11 +63,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [HOW DO YOU STOP PROCRASTINATION? 👨‍💻💭](https://chryzcodez.hashnode.dev/how-do-you-stop-procrastination-cklhqhvya00jx5ws109ah9m10)
 - [Time Management Tips  for Developer's Productivity.](https://chryzcodez.hashnode.dev//time-management-tips-for-developers-productivity-cklh1enev01qlf1s190zr44hx)
 - [7 Habit That Kills a Developer Career.](https://chryzcodez.hashnode.dev/7-habit-that-kills-a-developer-career-ckl81v32g00ggems1et3r40t1)
 - [7 Health Tips For Developers](https://chryzcodez.hashnode.dev/7-health-tips-for-developers-ckkxxvcxd004byos1h1o06s0y)
 - [7 Short Tips to Growth as a Developer](https://chryzcodez.hashnode.dev/7-short-tips-to-growth-as-a-developer-ckko955s504bz1es17e1dbc3f)
-- [Python Built-in String Methods/  Functions 1 :)](https://chryzcodez.hashnode.dev/python-built-in-string-methods-functions-1-ckkekyfbe04if00s15pjn9g5e)
 <!-- HASHNODE_BLOG:END -->
 
 
