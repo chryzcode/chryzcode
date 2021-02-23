@@ -1,7 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
-# Hi👋 I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
 #### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development!
 
 <p align="center">
@@ -29,16 +29,28 @@
 - ⚡ Fun fact **I live beyond been a developer**
 
 ## <h3 align="left">Languages and Tools:</h3>
-* <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> Python 
-* <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="30" width="40"/> Django
-* <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" width="40"/> Sqlite 
-* <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/>  Git
-* <img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/regex.svg" width="30" height="40"/> Regex
--------------------------------------------------------------------------------------------------------
+<p> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="40"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="30" width="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" width="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/> 
+<img align="left" src="https://github.com/chryzcodez/chryzcodez/blob/main/regex.svg" width="30" height="40"/></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chryzcodez&show_icons=true&locale=en&layout=compact" alt="chryzcodez" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&" alt="chryzcodez" />
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=chryzcodez&show_icons=true&theme=radical" alt="chryzcodez" />
+
+## <h3 align="left">My contribution streak</h3>
+<!-- https://github.com/kcoder63/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/chryzcodez/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+
+## <h3 align="left">GitHub Stats</h3>
+[![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcodez&theme=xcode)](https://git.io/chryzcodez)
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=chryzcodez&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcodez&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)<
+
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
