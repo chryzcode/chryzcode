@@ -54,11 +54,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/chryz-hub/chryz-hub.github.io/issues/40) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. ❗️ Closed issue [#38](https://github.com/chryz-hub/chryz-hub.github.io/issues/38) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#39](https://github.com/chryz-hub/chryz-hub.github.io/pull/39) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#39](https://github.com/chryz-hub/chryz-hub.github.io/pull/39) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. ❌ Closed PR [#35](https://github.com/chryz-hub/chryz-hub.github.io/pull/35) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#42](https://github.com/chryz-hub/chryz-hub.github.io/pull/42) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 💪 Opened PR [#42](https://github.com/chryz-hub/chryz-hub.github.io/pull/42) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Opened issue [#41](https://github.com/chryz-hub/chryz-hub.github.io/issues/41) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❗️ Opened issue [#40](https://github.com/chryz-hub/chryz-hub.github.io/issues/40) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. ❗️ Closed issue [#38](https://github.com/chryz-hub/chryz-hub.github.io/issues/38) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
