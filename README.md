@@ -54,11 +54,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/chryz-hub/chryz-hub.github.io/pull/30) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 💪 Opened PR [#30](https://github.com/chryz-hub/chryz-hub.github.io/pull/30) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. ❗️ Closed issue [#29](https://github.com/chryz-hub/chryz-hub.github.io/issues/29) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🗣 Commented on [#958](https://github.com/EddieHubCommunity/support/issues/958) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 💪 Opened PR [#970](https://github.com/EddieHubCommunity/support/pull/970) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#31](https://github.com/chryz-hub/chryz-hub.github.io/pull/31) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 💪 Opened PR [#31](https://github.com/chryz-hub/chryz-hub.github.io/pull/31) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#30](https://github.com/chryz-hub/chryz-hub.github.io/pull/30) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 💪 Opened PR [#30](https://github.com/chryz-hub/chryz-hub.github.io/pull/30) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. ❗️ Closed issue [#29](https://github.com/chryz-hub/chryz-hub.github.io/issues/29) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
