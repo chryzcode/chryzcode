@@ -54,11 +54,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/chryz-hub/chryz-hub.github.io/pull/48) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 💪 Opened PR [#48](https://github.com/chryz-hub/chryz-hub.github.io/pull/48) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#47](https://github.com/chryz-hub/chryz-hub.github.io/pull/47) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#47](https://github.com/chryz-hub/chryz-hub.github.io/pull/47) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#42](https://github.com/chryz-hub/opensource-4-everyone/pull/42) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#6](https://github.com/chryz-hub/py-newbie-projects/pull/6) in [chryz-hub/py-newbie-projects](https://github.com/chryz-hub/py-newbie-projects)
+2. 💪 Opened PR [#6](https://github.com/chryz-hub/py-newbie-projects/pull/6) in [chryz-hub/py-newbie-projects](https://github.com/chryz-hub/py-newbie-projects)
+3. 🎉 Merged PR [#5](https://github.com/chryz-hub/py-newbie-projects/pull/5) in [chryz-hub/py-newbie-projects](https://github.com/chryz-hub/py-newbie-projects)
+4. 💪 Opened PR [#5](https://github.com/chryz-hub/py-newbie-projects/pull/5) in [chryz-hub/py-newbie-projects](https://github.com/chryz-hub/py-newbie-projects)
+5. 🎉 Merged PR [#4](https://github.com/chryz-hub/py-tutorials/pull/4) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
