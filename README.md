@@ -63,7 +63,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [HOW DO YOU STOP PROCRASTINATION? 👨‍💻💭](https://chryzcodez.hashnode.dev/how-do-you-stop-procrastination-cklhqhvya00jx5ws109ah9m10)
+- [How Do You Stop Procrastination? 👨‍💻💭](https://chryzcodez.hashnode.dev/how-do-you-stop-procrastination-1-ckligmx4h02y3k7s17osg4awa)
 - [Time Management Tips  for Developer's Productivity.](https://chryzcodez.hashnode.dev//time-management-tips-for-developers-productivity-cklh1enev01qlf1s190zr44hx)
 - [7 Habit That Kills a Developer Career.](https://chryzcodez.hashnode.dev/7-habit-that-kills-a-developer-career-ckl81v32g00ggems1et3r40t1)
 - [7 Health Tips For Developers](https://chryzcodez.hashnode.dev/7-health-tips-for-developers-ckkxxvcxd004byos1h1o06s0y)
