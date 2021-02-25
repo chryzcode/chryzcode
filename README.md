@@ -54,11 +54,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-2. 💪 Opened PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-3. 💪 Opened PR [#289](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/289) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#45](https://github.com/chryz-hub/opensource-4-everyone/pull/45) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 💪 Opened PR [#45](https://github.com/chryz-hub/opensource-4-everyone/pull/45) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 💪 Opened PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. 💪 Opened PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 💪 Opened PR [#289](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/289) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
