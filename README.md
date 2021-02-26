@@ -2,7 +2,7 @@
 
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
-#### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer and also looking forward to learning frontend development!
+#### ...from Nigeria and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and also i'm a technical writer/blogger and also looking forward to learning frontend development!
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
@@ -22,7 +22,9 @@
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [chryz-hub](https://github.com/chryz-hub) 
   - Discord invite<a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
-- 📝 I regularly write articles on __[Hashnode](https://hashnode.com/@chryzcodez)__
+- 📝 I regularly write articles on 
+  - [Hashnode](https://hashnode.com/@chryzcodez)
+  - [My newsletter](https://www.getrevue.co/profile/chryz_codez)
 - 📫 How to reach me: 
   - alabaolanrewaju13@gmail.com
   - [@chryz_codez](https://twitter.com/chryz_codez)
@@ -79,4 +81,5 @@
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://www.getrevue.co/profile/chryz_codez" target="blank"><img align="center" src="https://github.com/chryzcodez/chryzcodez/blob/main/revue-logo.png" alt="chryz_codez" height="45" width="40" /></a> 
 </p>
