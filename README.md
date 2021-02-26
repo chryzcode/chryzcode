@@ -56,11 +56,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-2. 💪 Opened PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-3. 🎉 Merged PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#1](https://github.com/chryz-hub/js-tutorials/pull/1) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+2. 💪 Opened PR [#1](https://github.com/chryz-hub/js-tutorials/pull/1) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+3. 🎉 Merged PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+4. 💪 Opened PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+5. 🎉 Merged PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
