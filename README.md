@@ -56,11 +56,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 💪 Opened PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 💪 Opened PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 💪 Opened PR [#289](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/289) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+2. 💪 Opened PR [#7](https://github.com/chryz-hub/top-languages-cheat/pull/7) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+3. 🎉 Merged PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 💪 Opened PR [#51](https://github.com/chryz-hub/chryz-hub.github.io/pull/51) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🎉 Merged PR [#46](https://github.com/chryz-hub/opensource-4-everyone/pull/46) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
