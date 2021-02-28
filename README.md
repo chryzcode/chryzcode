@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/chryz-hub/js-tutorials/pull/4) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
-2. ❌ Closed PR [#3](https://github.com/chryz-hub/js-tutorials/pull/3) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
-3. 💪 Opened PR [#3](https://github.com/chryz-hub/js-tutorials/pull/3) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
-4. 🎉 Merged PR [#1](https://github.com/chryzcodez/js-tutorials/pull/1) in [chryzcodez/js-tutorials](https://github.com/chryzcodez/js-tutorials)
-5. 💪 Opened PR [#1](https://github.com/chryzcodez/js-tutorials/pull/1) in [chryzcodez/js-tutorials](https://github.com/chryzcodez/js-tutorials)
+1. 💪 Opened PR [#6](https://github.com/chryz-hub/js-tutorials/pull/6) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+2. 🎉 Merged PR [#5](https://github.com/chryz-hub/js-tutorials/pull/5) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+3. 💪 Opened PR [#5](https://github.com/chryz-hub/js-tutorials/pull/5) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+4. ❌ Closed PR [#4](https://github.com/chryz-hub/js-tutorials/pull/4) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+5. 💪 Opened PR [#4](https://github.com/chryz-hub/js-tutorials/pull/4) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
