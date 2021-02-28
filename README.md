@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/chryz-hub/py-tutorials/pull/8) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-2. 💪 Opened PR [#8](https://github.com/chryz-hub/py-tutorials/pull/8) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-3. 🎉 Merged PR [#48](https://github.com/chryz-hub/opensource-4-everyone/pull/48) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. ❌ Closed PR [#47](https://github.com/chryz-hub/opensource-4-everyone/pull/47) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🎉 Merged PR [#1](https://github.com/chryz-hub/js-tutorials/pull/1) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+1. ❌ Closed PR [#969](https://github.com/EddieHubCommunity/support/pull/969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#969](https://github.com/EddieHubCommunity/support/issues/969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❌ Closed PR [#970](https://github.com/EddieHubCommunity/support/pull/970) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#970](https://github.com/EddieHubCommunity/support/issues/970) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#2](https://github.com/chryz-hub/js-tutorials/pull/2) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
