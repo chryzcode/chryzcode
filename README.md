@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning dev & data things... 
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [chryz-hub](https://github.com/chryz-hub) 
-  - Discord invite<a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
+  - <a href="https://discord.gg/c6RhGwcP5b" target="blank">Discord invite<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
 - 📝 I regularly write articles on 
   - [Hashnode](https://hashnode.com/@chryzcodez)
 - 📫 How to reach me: 
