@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/chryz-hub/py-tutorials/pull/10) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-2. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-tutorials/pull/11) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-3. 🎉 Merged PR [#13](https://github.com/chryz-hub/py-tutorials/pull/13) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-4. 💪 Opened PR [#11](https://github.com/chryz-hub/js-tutorials/pull/11) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
-5. 💪 Opened PR [#13](https://github.com/chryz-hub/top-languages-cheat/pull/13) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+1. 🎉 Merged PR [#11](https://github.com/chryz-hub/js-tutorials/pull/11) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+2. 🎉 Merged PR [#10](https://github.com/chryz-hub/py-tutorials/pull/10) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+3. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-tutorials/pull/11) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+4. 🎉 Merged PR [#13](https://github.com/chryz-hub/py-tutorials/pull/13) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+5. 💪 Opened PR [#11](https://github.com/chryz-hub/js-tutorials/pull/11) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
