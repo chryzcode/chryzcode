@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#679](https://github.com/zero-to-mastery/resources/pull/679) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
-2. 💪 Opened PR [#678](https://github.com/zero-to-mastery/resources/pull/678) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
-3. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#294](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/294) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#13](https://github.com/chryz-hub/top-languages-cheat/pull/13) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+1. 🗣 Commented on [#969](https://github.com/EddieHubCommunity/support/issues/969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#679](https://github.com/zero-to-mastery/resources/pull/679) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
+3. 💪 Opened PR [#678](https://github.com/zero-to-mastery/resources/pull/678) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
+4. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 💪 Opened PR [#294](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/294) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
