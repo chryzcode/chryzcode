@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/chryzcodez/opensource-4-everyone/pull/12) in [chryzcodez/opensource-4-everyone](https://github.com/chryzcodez/opensource-4-everyone)
-2. 🎉 Merged PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 💪 Opened PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. ❗️ Opened issue [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-5. 💪 Opened PR [#543](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/543) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+1. 🎉 Merged PR [#12](https://github.com/chryzcodez/opensource-4-everyone/pull/12) in [chryzcodez/opensource-4-everyone](https://github.com/chryzcodez/opensource-4-everyone)
+2. 💪 Opened PR [#12](https://github.com/chryzcodez/opensource-4-everyone/pull/12) in [chryzcodez/opensource-4-everyone](https://github.com/chryzcodez/opensource-4-everyone)
+3. 🎉 Merged PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. 💪 Opened PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. ❗️ Opened issue [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
