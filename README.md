@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-2. 💪 Opened PR [#543](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/543) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-3. 🗣 Commented on [#969](https://github.com/EddieHubCommunity/support/issues/969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#679](https://github.com/zero-to-mastery/resources/pull/679) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
-5. 💪 Opened PR [#678](https://github.com/zero-to-mastery/resources/pull/678) in [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources)
+1. 🎉 Merged PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 💪 Opened PR [#7](https://github.com/chryz-hub/py-projects/pull/7) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+3. ❗️ Opened issue [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+4. 💪 Opened PR [#543](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/543) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+5. 🗣 Commented on [#969](https://github.com/EddieHubCommunity/support/issues/969) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
