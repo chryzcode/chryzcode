@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/chryz-hub/opensource-4-everyone/issues/52) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-2. 💪 Opened PR [#9](https://github.com/chryz-hub/py-projects/pull/9) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 💪 Opened PR [#15](https://github.com/chryz-hub/top-languages-cheat/pull/15) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-4. 💪 Opened PR [#51](https://github.com/chryz-hub/opensource-4-everyone/pull/51) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 💪 Opened PR [#13](https://github.com/chryz-hub/js-tutorials/pull/13) in [chryz-hub/js-tutorials](https://github.com/chryz-hub/js-tutorials)
+1. ❗️ Opened issue [#53](https://github.com/chryz-hub/opensource-4-everyone/issues/53) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. ❗️ Opened issue [#52](https://github.com/chryz-hub/opensource-4-everyone/issues/52) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 💪 Opened PR [#9](https://github.com/chryz-hub/py-projects/pull/9) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. 💪 Opened PR [#15](https://github.com/chryz-hub/top-languages-cheat/pull/15) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+5. 💪 Opened PR [#51](https://github.com/chryz-hub/opensource-4-everyone/pull/51) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
