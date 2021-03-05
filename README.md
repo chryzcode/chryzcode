@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#15](https://github.com/chryz-hub/py-tutorials/pull/15) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-3. 🎉 Merged PR [#50](https://github.com/chryz-hub/opensource-4-everyone/pull/50) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#51](https://github.com/chryz-hub/opensource-4-everyone/pull/51) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🎉 Merged PR [#57](https://github.com/chryz-hub/opensource-4-everyone/pull/57) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. ❗️ Opened issue [#1](https://github.com/chryz-hub/opensource-4-everyone/issues/1) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#15](https://github.com/chryz-hub/py-tutorials/pull/15) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+4. 🎉 Merged PR [#50](https://github.com/chryz-hub/opensource-4-everyone/pull/50) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#51](https://github.com/chryz-hub/opensource-4-everyone/pull/51) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
