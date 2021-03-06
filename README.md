@@ -55,11 +55,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/chryz-hub/py-projects/pull/8) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-2. 🎉 Merged PR [#9](https://github.com/chryz-hub/py-projects/pull/9) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 🎉 Merged PR [#10](https://github.com/chryz-hub/py-projects/pull/10) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. 🎉 Merged PR [#14](https://github.com/chryz-hub/py-tutorials/pull/14) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-5. 🎉 Merged PR [#16](https://github.com/chryz-hub/py-tutorials/pull/16) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+1. 🎉 Merged PR [#7](https://github.com/chryz-hub/opensource-4-everyone/pull/7) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 🎉 Merged PR [#9](https://github.com/chryz-hub/opensource-4-everyone/pull/9) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 🎉 Merged PR [#8](https://github.com/chryz-hub/py-projects/pull/8) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. 🎉 Merged PR [#9](https://github.com/chryz-hub/py-projects/pull/9) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 🎉 Merged PR [#10](https://github.com/chryz-hub/py-projects/pull/10) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
