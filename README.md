@@ -22,6 +22,7 @@
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [chryz-hub](https://github.com/chryz-hub) 
   - <a href="https://discord.gg/c6RhGwcP5b" target="blank">Discord invite<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
+  - <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank">YouTube channel<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" /></a>
 - 📝 I regularly write articles on 
   - [Hashnode](https://hashnode.com/@chryzcodez)
 - 📫 How to reach me: 
@@ -55,11 +56,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/chryz-hub/opensource-4-everyone/pull/10) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-2. 🎉 Merged PR [#74](https://github.com/chryz-hub/chryz-hub.github.io/pull/74) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🗣 Commented on [#73](https://github.com/chryz-hub/chryz-hub.github.io/issues/73) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🎉 Merged PR [#7](https://github.com/chryz-hub/opensource-4-everyone/pull/7) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🎉 Merged PR [#9](https://github.com/chryz-hub/opensource-4-everyone/pull/9) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#7](https://github.com/chryz-hub/opensource-4-everyone/pull/7) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 🎉 Merged PR [#9](https://github.com/chryz-hub/opensource-4-everyone/pull/9) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 🎉 Merged PR [#8](https://github.com/chryz-hub/py-projects/pull/8) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. 🎉 Merged PR [#9](https://github.com/chryz-hub/py-projects/pull/9) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 🎉 Merged PR [#10](https://github.com/chryz-hub/py-projects/pull/10) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
@@ -78,6 +79,7 @@
 <p align="left">
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceoxzzyhn1c9isazmxectcq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uceoxzzyhn1c9isazmxectcq" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
 </p>
