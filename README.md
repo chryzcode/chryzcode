@@ -56,11 +56,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-2. 🎉 Merged PR [#18](https://github.com/chryz-hub/opensource-4-everyone/pull/18) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-3. ❗️ Closed issue [#15](https://github.com/chryz-hub/opensource-4-everyone/issues/15) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#19](https://github.com/chryz-hub/opensource-4-everyone/pull/19) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🗣 Commented on [#77](https://github.com/chryz-hub/chryz-hub.github.io/issues/77) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+2. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+3. 🎉 Merged PR [#18](https://github.com/chryz-hub/opensource-4-everyone/pull/18) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. ❗️ Closed issue [#15](https://github.com/chryz-hub/opensource-4-everyone/issues/15) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#19](https://github.com/chryz-hub/opensource-4-everyone/pull/19) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
