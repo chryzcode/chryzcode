@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/chryz-hub/chryz-hub.github.io/issues/79) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#78](https://github.com/chryz-hub/chryz-hub.github.io/pull/78) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-4. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-5. 🎉 Merged PR [#18](https://github.com/chryz-hub/opensource-4-everyone/pull/18) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🗣 Commented on [#80](https://github.com/chryz-hub/chryz-hub.github.io/issues/80) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🗣 Commented on [#79](https://github.com/chryz-hub/chryz-hub.github.io/issues/79) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#78](https://github.com/chryz-hub/chryz-hub.github.io/pull/78) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+5. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
