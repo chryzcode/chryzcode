@@ -20,9 +20,10 @@
 - 🔭 I’m currently working and investing in my self...💻 
 - 🌱 I’m currently learning dev & data things... 
 - 💬 Ask me about my self and what i do... 
-- 👯 I’m looking for  collaborators & contributors on [chryz-hub](https://github.com/chryz-hub) 
-  - <a href="https://discord.gg/c6RhGwcP5b" target="blank">Discord invite<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" /></a>
-  - <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank">YouTube channel<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" /></a>
+- 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
+  - <a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" />Chryz-Hub Discord Server</a>
+  - <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" />Chryz-Hub YouTube channel</a>
+  - <a href="https://twitter.com/ChryzHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryzhub" height="30" width="40" />Chryz-Hub Twitter handle</a>
 - 📝 I regularly write articles on 
   - [Hashnode](https://hashnode.com/@chryzcodez)
 - 📫 How to reach me: 
@@ -56,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/chryz-hub/chryz-hub.github.io/pull/78) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-3. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-4. 🎉 Merged PR [#18](https://github.com/chryz-hub/opensource-4-everyone/pull/18) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. ❗️ Closed issue [#15](https://github.com/chryz-hub/opensource-4-everyone/issues/15) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+2. 🎉 Merged PR [#14](https://github.com/chryz-hub/top-languages-cheat/pull/14) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+3. 🎉 Merged PR [#18](https://github.com/chryz-hub/opensource-4-everyone/pull/18) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. ❗️ Closed issue [#15](https://github.com/chryz-hub/opensource-4-everyone/issues/15) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#19](https://github.com/chryz-hub/opensource-4-everyone/pull/19) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
