@@ -22,7 +22,7 @@
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
   - <a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" />Chryz-Hub Discord Server</a>
-  - <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" />Chryz-Hub YouTube channel</a>
+  - <a href="https://www.youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" />Chryz-Hub YouTube channel</a>
   - <a href="https://twitter.com/ChryzHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryzhub" height="30" width="40" />Chryz-Hub Twitter handle</a>
 - 📝 I regularly write articles on 
   - [Hashnode](https://hashnode.com/@chryzcodez)
@@ -80,7 +80,7 @@
 <p align="left">
 <a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceoxzzyhn1c9isazmxectcq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uceoxzzyhn1c9isazmxectcq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uUCEoxZzYHN1c9ISazmxeCtCQ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
 </p>
