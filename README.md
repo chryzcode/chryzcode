@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/chryzcodez?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/chryz_codez">
-    <img src="https://img.shields.io/twitter/follow/chryz_codez?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/chryz_cod?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/c6RhGwcP5b">
     <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
