@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/chryz-hub/opensource-4-everyone/pull/38) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-2. 🗣 Commented on [#99](https://github.com/chryz-hub/chryz-hub.github.io/issues/99) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🗣 Commented on [#37](https://github.com/chryz-hub/opensource-4-everyone/issues/37) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. ❗️ Closed issue [#31](https://github.com/chryz-hub/opensource-4-everyone/issues/31) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🗣 Commented on [#31](https://github.com/chryz-hub/opensource-4-everyone/issues/31) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#39](https://github.com/chryz-hub/opensource-4-everyone/pull/39) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 🎉 Merged PR [#38](https://github.com/chryz-hub/opensource-4-everyone/pull/38) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 🗣 Commented on [#99](https://github.com/chryz-hub/chryz-hub.github.io/issues/99) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#37](https://github.com/chryz-hub/opensource-4-everyone/issues/37) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. ❗️ Closed issue [#31](https://github.com/chryz-hub/opensource-4-everyone/issues/31) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
