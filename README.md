@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-2. 🎉 Merged PR [#118](https://github.com/chryz-hub/chryz-hub.github.io/pull/118) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#116](https://github.com/chryz-hub/chryz-hub.github.io/pull/116) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🎉 Merged PR [#1](https://github.com/chryzcodez/web-dev-resources/pull/1) in [chryzcodez/web-dev-resources](https://github.com/chryzcodez/web-dev-resources)
-5. 💪 Opened PR [#1](https://github.com/chryzcodez/web-dev-resources/pull/1) in [chryzcodez/web-dev-resources](https://github.com/chryzcodez/web-dev-resources)
+1. 🎉 Merged PR [#13](https://github.com/chryz-hub/py-projects/pull/13) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 🗣 Commented on [#544](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/544) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+3. 🎉 Merged PR [#118](https://github.com/chryz-hub/chryz-hub.github.io/pull/118) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#116](https://github.com/chryz-hub/chryz-hub.github.io/pull/116) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🎉 Merged PR [#1](https://github.com/chryzcodez/web-dev-resources/pull/1) in [chryzcodez/web-dev-resources](https://github.com/chryzcodez/web-dev-resources)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts 👇
