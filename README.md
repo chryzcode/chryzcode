@@ -66,11 +66,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [How I Made a Country-Info Project Using Python](https://chryzcodez.hashnode.dev/how-i-made-a-country-info-project-using-python-ckntr5lnj06giass117ms8psf)
 - [Python Interview Questions.](https://chryzcodez.hashnode.dev/python-interview-questions-cknrscbzo15ywlps17ouk2jkc)
 - [The Language: Python🐍](https://chryzcodez.hashnode.dev/the-language-python-cknkrtypk031abms1gdq06bty)
 - [6 Short Tips in Being Persistent!⠀](https://chryzcodez.hashnode.dev/6-short-tips-in-being-persistent-ckmvqchto0401wvs1g4333ni8)
 - [7 Developer's Destructible Career Habits.](https://chryzcodez.hashnode.dev/7-developers-destructible-career-habits-ckmgwby76029ikks19ie16so9)
-- [Software Developers 👨‍💻 Software Engineers Part 2](https://chryzcodez.hashnode.dev/software-developers-software-engineers-part-2-ckm1l5p1l02nskvs1b4xwal6f)
 <!-- HASHNODE_BLOG:END -->
 
 
