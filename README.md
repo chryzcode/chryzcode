@@ -2,7 +2,7 @@
 
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
-#### ...from Nigeria an :octocat: open-source enthusiast and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and i'm also a technical writer/blogger and also looking forward to learning frontend development!
+#### ...from Nigeria an :octocat: open-source enthusiast and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and i'm also a tech blogger and also looking forward to learning frontend development soon!
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
@@ -64,6 +64,7 @@
 5. ❌ Closed PR [#90](https://github.com/chryz-hub/chryz-hub.github.io/pull/90) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
+
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [How I Made a Country-Info Project Using Python](https://chryzcodez.hashnode.dev/how-i-made-a-country-info-project-using-python-ckntr5lnj06giass117ms8psf)
@@ -72,9 +73,6 @@
 - [6 Short Tips in Being Persistent!⠀](https://chryzcodez.hashnode.dev/6-short-tips-in-being-persistent-ckmvqchto0401wvs1g4333ni8)
 - [7 Developer's Destructible Career Habits.](https://chryzcodez.hashnode.dev/7-developers-destructible-career-habits-ckmgwby76029ikks19ie16so9)
 <!-- HASHNODE_BLOG:END -->
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
