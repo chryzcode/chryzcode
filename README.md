@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/chryz-hub/py-tutorials/pull/17) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-2. 🎉 Merged PR [#18](https://github.com/chryz-hub/py-tutorials/pull/18) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
-3. 🎉 Merged PR [#2](https://github.com/chryz-hub/web-dev-resources/pull/2) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-4. 🗣 Commented on [#135](https://github.com/chryz-hub/chryz-hub.github.io/issues/135) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. ❌ Closed PR [#90](https://github.com/chryz-hub/chryz-hub.github.io/pull/90) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🗣 Commented on [#147](https://github.com/chryz-hub/chryz-hub.github.io/issues/147) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#17](https://github.com/chryz-hub/py-tutorials/pull/17) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+3. 🎉 Merged PR [#18](https://github.com/chryz-hub/py-tutorials/pull/18) in [chryz-hub/py-tutorials](https://github.com/chryz-hub/py-tutorials)
+4. 🎉 Merged PR [#2](https://github.com/chryz-hub/web-dev-resources/pull/2) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+5. 🗣 Commented on [#135](https://github.com/chryz-hub/chryz-hub.github.io/issues/135) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
