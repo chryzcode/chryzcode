@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/chryz-hub/web-dev-resources/pull/5) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-2. 🗣 Commented on [#5](https://github.com/chryz-hub/web-dev-resources/issues/5) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-3. 🎉 Merged PR [#156](https://github.com/chryz-hub/chryz-hub.github.io/pull/156) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🎉 Merged PR [#4](https://github.com/chryz-hub/web-dev-resources/pull/4) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-5. 🗣 Commented on [#4](https://github.com/chryz-hub/web-dev-resources/issues/4) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+1. 🎉 Merged PR [#17](https://github.com/chryz-hub/top-languages-cheat/pull/17) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+2. 🗣 Commented on [#17](https://github.com/chryz-hub/top-languages-cheat/issues/17) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+3. 🎉 Merged PR [#5](https://github.com/chryz-hub/web-dev-resources/pull/5) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+4. 🗣 Commented on [#5](https://github.com/chryz-hub/web-dev-resources/issues/5) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+5. 🎉 Merged PR [#156](https://github.com/chryz-hub/chryz-hub.github.io/pull/156) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
