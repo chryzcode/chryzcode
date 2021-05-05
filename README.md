@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/chryz-hub/top-languages-cheat/pull/19) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-2. 🗣 Commented on [#167](https://github.com/chryz-hub/chryz-hub.github.io/issues/167) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. ❗️ Closed issue [#18](https://github.com/chryz-hub/top-languages-cheat/issues/18) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-4. 🗣 Commented on [#18](https://github.com/chryz-hub/top-languages-cheat/issues/18) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-5. 🎉 Merged PR [#17](https://github.com/chryz-hub/top-languages-cheat/pull/17) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+1. 🎉 Merged PR [#173](https://github.com/chryz-hub/chryz-hub.github.io/pull/173) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#19](https://github.com/chryz-hub/top-languages-cheat/pull/19) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+3. 🗣 Commented on [#167](https://github.com/chryz-hub/chryz-hub.github.io/issues/167) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❗️ Closed issue [#18](https://github.com/chryz-hub/top-languages-cheat/issues/18) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+5. 🗣 Commented on [#18](https://github.com/chryz-hub/top-languages-cheat/issues/18) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
 <!--END_SECTION:activity-->
 
 
