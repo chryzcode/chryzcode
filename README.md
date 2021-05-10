@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/chryz-hub/chryz-hub.github.io/issues/187) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#6](https://github.com/chryz-hub/web-dev-resources/pull/6) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-3. 🗣 Commented on [#43](https://github.com/chryz-hub/opensource-4-everyone/issues/43) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#43](https://github.com/chryz-hub/opensource-4-everyone/pull/43) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🗣 Commented on [#183](https://github.com/chryz-hub/chryz-hub.github.io/issues/183) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🗣 Commented on [#178](https://github.com/chryz-hub/chryz-hub.github.io/issues/178) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🗣 Commented on [#187](https://github.com/chryz-hub/chryz-hub.github.io/issues/187) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#6](https://github.com/chryz-hub/web-dev-resources/pull/6) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+4. 🗣 Commented on [#43](https://github.com/chryz-hub/opensource-4-everyone/issues/43) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#43](https://github.com/chryz-hub/opensource-4-everyone/pull/43) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 
