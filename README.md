@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/chryz-hub/js-projects/pull/4) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-2. ❗️ Opened issue [#213](https://github.com/chryz-hub/chryz-hub.github.io/issues/213) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. ❗️ Opened issue [#212](https://github.com/chryz-hub/chryz-hub.github.io/issues/212) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. ❗️ Opened issue [#211](https://github.com/chryz-hub/chryz-hub.github.io/issues/211) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. ❗️ Opened issue [#210](https://github.com/chryz-hub/chryz-hub.github.io/issues/210) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. ❌ Closed PR [#216](https://github.com/chryz-hub/chryz-hub.github.io/pull/216) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#4](https://github.com/chryz-hub/js-projects/pull/4) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+3. ❗️ Opened issue [#213](https://github.com/chryz-hub/chryz-hub.github.io/issues/213) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❗️ Opened issue [#212](https://github.com/chryz-hub/chryz-hub.github.io/issues/212) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. ❗️ Opened issue [#211](https://github.com/chryz-hub/chryz-hub.github.io/issues/211) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
