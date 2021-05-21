@@ -2,7 +2,7 @@
 
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
-#### ...from Nigeria an :octocat: open-source enthusiast and I do content on web development and data science...... I really enjoy learning and using technologies like python, django, sqlite and i'm also a tech blogger and also looking forward to learning frontend development soon!
+#### ...from Nigeria an :octocat: open-source enthusiast and I do content on web development and data science......i'm also a tech blogger and also learning frontend development! Aspiring full stack dev....
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
