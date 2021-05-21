@@ -57,11 +57,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/chryz-hub/chryz-hub.github.io/issues/223) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#193](https://github.com/chryz-hub/chryz-hub.github.io/issues/193) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. ❗️ Closed issue [#219](https://github.com/chryz-hub/chryz-hub.github.io/issues/219) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. ❌ Closed PR [#216](https://github.com/chryz-hub/chryz-hub.github.io/pull/216) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#4](https://github.com/chryz-hub/js-projects/pull/4) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+1. ❗️ Closed issue [#193](https://github.com/chryz-hub/chryz-hub.github.io/issues/193) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. ❗️ Closed issue [#3](https://github.com/chryz-hub/js-projects/issues/3) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+3. 🗣 Commented on [#223](https://github.com/chryz-hub/chryz-hub.github.io/issues/223) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#193](https://github.com/chryz-hub/chryz-hub.github.io/issues/193) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. ❗️ Closed issue [#219](https://github.com/chryz-hub/chryz-hub.github.io/issues/219) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
