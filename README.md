@@ -2,7 +2,7 @@
 
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
-#### ...from Nigeria an :octocat: open-source enthusiast and I do content on web development and data science......i'm also a tech blogger and also learning frontend development! Aspiring full stack dev....
+#### ...from Nigeria an 18 year old full-stack developer, an :octocat: open-source enthusiast and a tech blogger. An aspiring data scientist!
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
@@ -17,8 +17,8 @@
 </p>
 
 
-- 🔭 I’m currently working and investing in my self...💻 
-- 🌱 I’m currently learning dev & data things... 
+- 🔭 I’m currently working and investing in my self and [chryz-hub](https://github.com/chryz-hub).💻 
+- 🌱 I’m currently learning more on web development and building startups... 
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
   - <a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" />Chryz-Hub Discord Server</a>
