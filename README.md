@@ -21,14 +21,8 @@
 - 🌱 I’m currently learning more on web development and building startups... 
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
-  - <a href="https://discord.gg/c6RhGwcP5b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="c6RhGwcP5b" height="30" width="40" />Chryz-Hub Discord Server</a>
-  - <a href="https://www.youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uceoxzzyhn1c9isazmxectcq" height="30" width="40" />Chryz-Hub YouTube channel</a>
-  - <a href="https://twitter.com/ChryzHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryzhub" height="30" width="40" />Chryz-Hub Twitter handle</a>
-- 📝 I regularly write articles on 
-  - [Hashnode](https://hashnode.com/@chryzcodez)
-- 📫 How to reach me: 
-  - alabaolanrewaju13@gmail.com
-  - [@chryz_codez](https://twitter.com/chryz_codez)
+- 📝 I regularly write articles on [@Hashnode](https://hashnode.com/@chryzcodez)
+- 📫 How to reach me: alabaolanrewaju13@gmail.com
 - ⚡ Fun fact **I live beyond been a developer**
 
 ## Languages and Tools:
