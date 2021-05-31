@@ -51,11 +51,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/chryz-hub/top-languages-cheat/issues/20) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
-2. 🎉 Merged PR [#12](https://github.com/chryz-hub/web-dev-resources/pull/12) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-3. 🎉 Merged PR [#238](https://github.com/chryz-hub/chryz-hub.github.io/pull/238) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🗣 Commented on [#238](https://github.com/chryz-hub/chryz-hub.github.io/issues/238) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#48](https://github.com/chryz-hub/opensource-4-everyone/pull/48) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#50](https://github.com/chryz-hub/opensource-4-everyone/pull/50) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 🎉 Merged PR [#13](https://github.com/chryz-hub/web-dev-resources/pull/13) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+3. 🎉 Merged PR [#49](https://github.com/chryz-hub/opensource-4-everyone/pull/49) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. ❗️ Closed issue [#20](https://github.com/chryz-hub/top-languages-cheat/issues/20) in [chryz-hub/top-languages-cheat](https://github.com/chryz-hub/top-languages-cheat)
+5. 🎉 Merged PR [#12](https://github.com/chryz-hub/web-dev-resources/pull/12) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 <!--END_SECTION:activity-->
 
 
