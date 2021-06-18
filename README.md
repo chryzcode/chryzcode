@@ -51,11 +51,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/6) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
-2. 💪 Opened PR [#6](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/6) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
-3. 🎉 Merged PR [#9](https://github.com/chryz-hub/js-projects/pull/9) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-4. 🗣 Commented on [#9](https://github.com/chryz-hub/js-projects/issues/9) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-5. 🎉 Merged PR [#51](https://github.com/chryz-hub/opensource-4-everyone/pull/51) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#8](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/8) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
+2. 💪 Opened PR [#8](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/8) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
+3. 🎉 Merged PR [#7](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/7) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
+4. 💪 Opened PR [#7](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/7) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
+5. 🎉 Merged PR [#6](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/6) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
 <!--END_SECTION:activity-->
 
 
