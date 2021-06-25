@@ -52,11 +52,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/chryz-hub/py-projects/pull/15) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-2. ❌ Closed PR [#8](https://github.com/chryz-hub/js-projects/pull/8) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-3. 🎉 Merged PR [#15](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/15) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
-4. 💪 Opened PR [#15](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/15) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
-5. 💪 Opened PR [#3](https://github.com/zuri-training/gigs-be-pjt-74/pull/3) in [zuri-training/gigs-be-pjt-74](https://github.com/zuri-training/gigs-be-pjt-74)
+1. 🎉 Merged PR [#14](https://github.com/chryz-hub/py-projects/pull/14) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 🎉 Merged PR [#15](https://github.com/chryz-hub/py-projects/pull/15) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+3. 💪 Opened PR [#15](https://github.com/chryz-hub/py-projects/pull/15) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. ❌ Closed PR [#8](https://github.com/chryz-hub/js-projects/pull/8) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+5. 🎉 Merged PR [#15](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/15) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
 <!--END_SECTION:activity-->
 
 
