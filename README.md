@@ -52,11 +52,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/chryzcodez/solanascan-project/pull/1) in [chryzcodez/solanascan-project](https://github.com/chryzcodez/solanascan-project)
-2. 🎉 Merged PR [#56](https://github.com/chryz-hub/opensource-4-everyone/pull/56) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-3. 💪 Opened PR [#56](https://github.com/chryz-hub/opensource-4-everyone/pull/56) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#55](https://github.com/chryz-hub/opensource-4-everyone/pull/55) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🎉 Merged PR [#17](https://github.com/chryz-hub/py-projects/pull/17) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+1. 🗣 Commented on [#18](https://github.com/chryz-hub/py-projects/issues/18) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 🎉 Merged PR [#1](https://github.com/chryzcodez/solanascan-project/pull/1) in [chryzcodez/solanascan-project](https://github.com/chryzcodez/solanascan-project)
+3. 🎉 Merged PR [#56](https://github.com/chryz-hub/opensource-4-everyone/pull/56) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. 💪 Opened PR [#56](https://github.com/chryz-hub/opensource-4-everyone/pull/56) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#55](https://github.com/chryz-hub/opensource-4-everyone/pull/55) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 
