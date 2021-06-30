@@ -52,11 +52,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/chryz-hub/connect/pull/2) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-2. 💪 Opened PR [#2](https://github.com/chryz-hub/connect/pull/2) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-3. 🎉 Merged PR [#1](https://github.com/chryz-hub/connect/pull/1) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-4. 🗣 Commented on [#256](https://github.com/chryz-hub/chryz-hub.github.io/issues/256) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🗣 Commented on [#253](https://github.com/chryz-hub/chryz-hub.github.io/issues/253) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#3](https://github.com/chryz-hub/connect/pull/3) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+2. 💪 Opened PR [#3](https://github.com/chryz-hub/connect/pull/3) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+3. 🎉 Merged PR [#2](https://github.com/chryz-hub/connect/pull/2) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+4. 💪 Opened PR [#2](https://github.com/chryz-hub/connect/pull/2) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+5. 🎉 Merged PR [#1](https://github.com/chryz-hub/connect/pull/1) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
 <!--END_SECTION:activity-->
 
 
