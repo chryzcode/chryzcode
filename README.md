@@ -24,6 +24,8 @@
 - 📝 I regularly write articles on [@Hashnode](https://hashnode.com/@chryzcodez)
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 - ⚡ Fun fact **I live beyond been a developer**
+<br>
+  Support me <a href="https://paystack.com/pay/chryz_codez">:heart: Sponsor</a>
 
 ## Languages and Tools:
 <p> 
