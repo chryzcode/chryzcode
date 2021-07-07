@@ -25,7 +25,10 @@
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 - ⚡ Fun fact **I live beyond been a developer**
 <br>
-  Support me <a href="https://paystack.com/pay/chryz_codez">:heart: Sponsor</a>
+  
+Support me 
+- <a href="https://paystack.com/pay/chryz_codez">:heart: Sponsor me on paystack</a>
+- <a href="https://www.patreon.com/chryzcodez">:heart: Sponsor me on patreon</a>
 
 ## Languages and Tools:
 <p> 
