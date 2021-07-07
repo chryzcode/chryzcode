@@ -56,11 +56,11 @@
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/chryz-hub/connect/issues/10) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-2. 🎉 Merged PR [#13](https://github.com/chryz-hub/connect/pull/13) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-3. ❗️ Closed issue [#8](https://github.com/chryz-hub/connect/issues/8) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-4. 🎉 Merged PR [#11](https://github.com/chryz-hub/connect/pull/11) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-5. 🗣 Commented on [#225](https://github.com/chryz-hub/chryz-hub.github.io/issues/225) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#23](https://github.com/chryz-hub/web-dev-resources/pull/23) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+2. 💪 Opened PR [#23](https://github.com/chryz-hub/web-dev-resources/pull/23) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+3. 🎉 Merged PR [#22](https://github.com/chryz-hub/web-dev-resources/pull/22) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+4. ❗️ Closed issue [#10](https://github.com/chryz-hub/connect/issues/10) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+5. 🎉 Merged PR [#13](https://github.com/chryz-hub/connect/pull/13) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
 <!--END_SECTION:activity-->
 
 
