@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/chryzcodez/solanascan-project/pull/6) in [chryzcodez/solanascan-project](https://github.com/chryzcodez/solanascan-project)
-2. 🎉 Merged PR [#73](https://github.com/chryz-hub/opensource-4-everyone/pull/73) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-3. 💪 Opened PR [#73](https://github.com/chryz-hub/opensource-4-everyone/pull/73) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#72](https://github.com/chryz-hub/opensource-4-everyone/pull/72) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🗣 Commented on [#72](https://github.com/chryz-hub/opensource-4-everyone/issues/72) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+1. 🎉 Merged PR [#32](https://github.com/chryz-hub/web-dev-resources/pull/32) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+2. 💪 Opened PR [#32](https://github.com/chryz-hub/web-dev-resources/pull/32) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+3. 🎉 Merged PR [#31](https://github.com/chryz-hub/web-dev-resources/pull/31) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+4. 🎉 Merged PR [#75](https://github.com/chryz-hub/opensource-4-everyone/pull/75) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 💪 Opened PR [#75](https://github.com/chryz-hub/opensource-4-everyone/pull/75) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 
