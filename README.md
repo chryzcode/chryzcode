@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-2. 💪 Opened PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-3. ❗️ Closed issue [#41](https://github.com/chryz-hub/web-dev-resources/issues/41) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-4. 🎉 Merged PR [#45](https://github.com/chryz-hub/web-dev-resources/pull/45) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-5. 🎉 Merged PR [#275](https://github.com/chryz-hub/chryz-hub.github.io/pull/275) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 💪 Opened PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+3. 🎉 Merged PR [#27](https://github.com/chryz-hub/py-projects/pull/27) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+4. 🎉 Merged PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+5. 💪 Opened PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 <!--END_SECTION:activity-->
 
 
