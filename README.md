@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-2. 💪 Opened PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 🎉 Merged PR [#27](https://github.com/chryz-hub/py-projects/pull/27) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. 🎉 Merged PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-5. 💪 Opened PR [#46](https://github.com/chryz-hub/web-dev-resources/pull/46) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+1. 🎉 Merged PR [#81](https://github.com/chryz-hub/opensource-4-everyone/pull/81) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+2. 💪 Opened PR [#81](https://github.com/chryz-hub/opensource-4-everyone/pull/81) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 🎉 Merged PR [#80](https://github.com/chryz-hub/opensource-4-everyone/pull/80) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. 🎉 Merged PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 💪 Opened PR [#28](https://github.com/chryz-hub/py-projects/pull/28) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 
 
