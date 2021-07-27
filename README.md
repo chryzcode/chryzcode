@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/chryz-hub/web-dev-resources/issues/51) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-2. 🗣 Commented on [#51](https://github.com/chryz-hub/web-dev-resources/issues/51) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-3. ❗️ Closed issue [#49](https://github.com/chryz-hub/web-dev-resources/issues/49) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-4. 🗣 Commented on [#49](https://github.com/chryz-hub/web-dev-resources/issues/49) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
-5. 🎉 Merged PR [#50](https://github.com/chryz-hub/web-dev-resources/pull/50) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+1. 🗣 Commented on [#281](https://github.com/chryz-hub/chryz-hub.github.io/issues/281) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🗣 Commented on [#280](https://github.com/chryz-hub/chryz-hub.github.io/issues/280) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Closed issue [#51](https://github.com/chryz-hub/web-dev-resources/issues/51) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+4. 🗣 Commented on [#51](https://github.com/chryz-hub/web-dev-resources/issues/51) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
+5. ❗️ Closed issue [#49](https://github.com/chryz-hub/web-dev-resources/issues/49) in [chryz-hub/web-dev-resources](https://github.com/chryz-hub/web-dev-resources)
 <!--END_SECTION:activity-->
 
 
