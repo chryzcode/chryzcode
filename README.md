@@ -69,11 +69,11 @@ Support me
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [My HNGi8 X I4G Internship Goals.](https://chryzcodez.hashnode.dev/my-hngi8-x-i4g-internship-goals-ckse7y8l00guuu5s1hxxcd8xl)
 - [Django JSON Response safe=False](https://chryzcodez.hashnode.dev/django-json-response-safefalse-ckr7qhs3c07ufo8s1fpaidc3g)
 - [How I Made a Country-Info Project Using Python](https://chryzcodez.hashnode.dev/how-i-made-a-country-info-project-using-python-ckntr5lnj06giass117ms8psf)
 - [Python Interview Questions.](https://chryzcodez.hashnode.dev/python-interview-questions-cknrscbzo15ywlps17ouk2jkc)
 - [The Language: Python🐍](https://chryzcodez.hashnode.dev/the-language-python-cknkrtypk031abms1gdq06bty)
-- [6 Short Tips in Being Persistent!⠀](https://chryzcodez.hashnode.dev/6-short-tips-in-being-persistent-ckmvqchto0401wvs1g4333ni8)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
