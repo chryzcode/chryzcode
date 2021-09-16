@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/zurichat/zc_plugin_dm/pull/630) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
-2. 🎉 Merged PR [#309](https://github.com/chryz-hub/chryz-hub.github.io/pull/309) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#107](https://github.com/chryz-hub/opensource-4-everyone/pull/107) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🗣 Commented on [#300](https://github.com/zurichat/zc_plugin_dm/issues/300) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
-5. 💪 Opened PR [#395](https://github.com/zurichat/zc_plugin_dm/pull/395) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
+1. 🗣 Commented on [#310](https://github.com/chryz-hub/chryz-hub.github.io/issues/310) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 💪 Opened PR [#630](https://github.com/zurichat/zc_plugin_dm/pull/630) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
+3. 🎉 Merged PR [#309](https://github.com/chryz-hub/chryz-hub.github.io/pull/309) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#107](https://github.com/chryz-hub/opensource-4-everyone/pull/107) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🗣 Commented on [#300](https://github.com/zurichat/zc_plugin_dm/issues/300) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
 <!--END_SECTION:activity-->
 
 
