@@ -59,11 +59,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#311](https://github.com/chryz-hub/chryz-hub.github.io/pull/311) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#30](https://github.com/chryz-hub/py-projects/pull/30) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 💪 Opened PR [#30](https://github.com/chryz-hub/py-projects/pull/30) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. 🎉 Merged PR [#29](https://github.com/chryz-hub/py-projects/pull/29) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-5. 💪 Opened PR [#637](https://github.com/zurichat/zc_plugin_dm/pull/637) in [zurichat/zc_plugin_dm](https://github.com/zurichat/zc_plugin_dm)
+1. 🗣 Commented on [#21](https://github.com/chryz-hub/connect/issues/21) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+2. 🗣 Commented on [#313](https://github.com/chryz-hub/chryz-hub.github.io/issues/313) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#311](https://github.com/chryz-hub/chryz-hub.github.io/pull/311) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#30](https://github.com/chryz-hub/py-projects/pull/30) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 💪 Opened PR [#30](https://github.com/chryz-hub/py-projects/pull/30) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 
 
