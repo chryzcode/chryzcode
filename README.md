@@ -61,11 +61,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/chryz-hub/chryz-hub.github.io/issues/314) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. ❌ Closed PR [#22](https://github.com/chryz-hub/connect/pull/22) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-3. 🗣 Commented on [#21](https://github.com/chryz-hub/connect/issues/21) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
-4. 🗣 Commented on [#313](https://github.com/chryz-hub/chryz-hub.github.io/issues/313) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#311](https://github.com/chryz-hub/chryz-hub.github.io/pull/311) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#1](https://github.com/chryzcodez/zc_plugin_dm/pull/1) in [chryzcodez/zc_plugin_dm](https://github.com/chryzcodez/zc_plugin_dm)
+2. 💪 Opened PR [#1](https://github.com/chryzcodez/zc_plugin_dm/pull/1) in [chryzcodez/zc_plugin_dm](https://github.com/chryzcodez/zc_plugin_dm)
+3. 🗣 Commented on [#314](https://github.com/chryz-hub/chryz-hub.github.io/issues/314) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❌ Closed PR [#22](https://github.com/chryz-hub/connect/pull/22) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
+5. 🗣 Commented on [#21](https://github.com/chryz-hub/connect/issues/21) in [chryz-hub/connect](https://github.com/chryz-hub/connect)
 <!--END_SECTION:activity-->
 
 
