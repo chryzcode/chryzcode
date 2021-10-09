@@ -3,7 +3,7 @@
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
 
-#### ...from Nigeria, a full-stack developer skilled in HTML, CSS, Python, Django, Bootstrap, Django Rest FrameWork, SQLite, PostgreSql, Heroku and Git...currently learning React....an :octocat: open-source enthusiast, a tech blogger and a content creator
+#### a full-stack developer skilled in HTML, CSS, Python, Django, Bootstrap, Django Rest FrameWork, SQLite, PostgreSql, Heroku and Git...currently learning React....an :octocat: open-source enthusiast, a tech blogger and a content creator
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
