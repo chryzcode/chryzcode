@@ -49,12 +49,6 @@ Support me
   <a href="https://github.com/chryzcodez/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a><p>
-
-## <h3 align="left">GitHub Stats</h3>
-[![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcodez&theme=xcode)](https://git.io/chryzcodez)
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=chryzcodez&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcodez&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
