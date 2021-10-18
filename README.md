@@ -22,7 +22,6 @@
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
-- ⚡ Fun fact **I live beyond been a developer**
 <br>
   
 Support me 
