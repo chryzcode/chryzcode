@@ -3,7 +3,7 @@
 
 # Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Alaba Olanrewaju...  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/chryz_codez) 
 
-#### a full-stack developer skilled in HTML, CSS, Python, Django, Bootstrap, Django Rest FrameWork, SQLite, PostgreSql, Heroku and Git...currently learning React....an :octocat: open-source enthusiast, a tech blogger and a content creator
+#### a full-stack developer skilled in HTML, CSS, Python, Django, Bootstrap, Django Rest FrameWork, SQLite, PostgreSql, Heroku and Git...currently learning React....an :octocat: an open-source enthusiast.
 
 <p align="center">
   <a href="https://github.com/chryzcodez?tab=followers">
@@ -21,7 +21,6 @@
 - 🔭 I’m currently working and investing in my self and [chryz-hub](https://github.com/chryz-hub)....
 - 💬 Ask me about my self and what i do... 
 - 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
-- 📝 I regularly write articles on [@Hashnode](https://hashnode.com/@chryzcodez)
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 - ⚡ Fun fact **I live beyond been a developer**
 <br>
@@ -67,19 +66,8 @@ Support me
 <!--END_SECTION:activity-->
 
 
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-- [My HNGi8 X I4G Internship Goals.](https://chryzcodez.hashnode.dev/my-hngi8-x-i4g-internship-goals-ckse7y8l00guuu5s1hxxcd8xl)
-- [Django JSON Response safe=False](https://chryzcodez.hashnode.dev/django-json-response-safefalse-ckr7qhs3c07ufo8s1fpaidc3g)
-- [How I Made a Country-Info Project Using Python](https://chryzcodez.hashnode.dev/how-i-made-a-country-info-project-using-python-ckntr5lnj06giass117ms8psf)
-- [Python Interview Questions.](https://chryzcodez.hashnode.dev/python-interview-questions-cknrscbzo15ywlps17ouk2jkc)
-- [The Language: Python🐍](https://chryzcodez.hashnode.dev/the-language-python-cknkrtypk031abms1gdq06bty)
-<!-- HASHNODE_BLOG:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chryz_codez" height="30" width="40" /></a>
-<a href="https://hashnode.com/@chryzcodez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="chryz_codez" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uUCEoxZzYHN1c9ISazmxeCtCQ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryz_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chryz_codez" height="30" width="40" /></a> 
