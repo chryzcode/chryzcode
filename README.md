@@ -40,12 +40,7 @@ Support me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-## My contribution streak
-<!-- https://github.com/kcoder63/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/chryzcodez/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcodez&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a><p>
+
   
   ## <h3 align="left">GitHub Stats</h3>
 [![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcodez&theme=xcode)](https://git.io/chryzcodez)
