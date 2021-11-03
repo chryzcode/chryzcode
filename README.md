@@ -51,11 +51,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#325](https://github.com/chryz-hub/chryz-hub.github.io/issues/325) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#322](https://github.com/chryz-hub/chryz-hub.github.io/issues/322) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🗣 Commented on [#324](https://github.com/chryz-hub/chryz-hub.github.io/issues/324) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🗣 Commented on [#322](https://github.com/chryz-hub/chryz-hub.github.io/issues/322) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. ❗️ Closed issue [#323](https://github.com/chryz-hub/chryz-hub.github.io/issues/323) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 💪 Opened PR [#84](https://github.com/zurichat/Documentation/pull/84) in [zurichat/Documentation](https://github.com/zurichat/Documentation)
+2. 🗣 Commented on [#325](https://github.com/chryz-hub/chryz-hub.github.io/issues/325) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🗣 Commented on [#322](https://github.com/chryz-hub/chryz-hub.github.io/issues/322) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#324](https://github.com/chryz-hub/chryz-hub.github.io/issues/324) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#322](https://github.com/chryz-hub/chryz-hub.github.io/issues/322) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
