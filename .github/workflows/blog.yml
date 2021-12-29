@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'chryzcodez'
+          USERNAME: 'chryz-code'
           COUNT: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
