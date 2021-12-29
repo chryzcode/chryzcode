@@ -6,8 +6,8 @@
 #### a full-stack developer skilled in HTML, CSS, Python, Django, Bootstrap, Django Rest FrameWork, SQLite, PostgreSql, Heroku and Git....an :octocat: an open-source enthusiast.
 
 <p align="center">
-  <a href="https://github.com/chryzcodez?tab=followers">
-    <img src="https://img.shields.io/github/followers/chryzcodez?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/chryz-code?tab=followers">
+    <img src="https://img.shields.io/github/followers/chryz-code?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/chryz_code">
     <img src="https://img.shields.io/twitter/follow/chryz_code?label=Twitter&logo=twitter&style=for-the-badge" />
@@ -43,7 +43,7 @@ Support me
 
   
   ## <h3 align="left">GitHub Stats</h3>
-[![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcodez&theme=xcode)](https://git.io/chryzcodez)
+[![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryz-code&theme=xcode)](https://git.io/chryz-code)
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcodez&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
