@@ -58,6 +58,9 @@ Support me
 5. 🎉 Merged PR [#110](https://github.com/chryz-hub/opensource-4-everyone/pull/110) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
+  ## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
