@@ -71,5 +71,5 @@ Support me
 <p align="left">
 <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="./images/youtube-brands.svg" alt="https://www.youtube.com/channel/uUCEoxZzYHN1c9ISazmxeCtCQ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba/" target="blank"><img align="center" src="./images/linkedin-brands.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
-<a href="https://twitter.com/chryz_code" target="blank"><img align="center" src="./images/twitter-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://twitter.com/chryz_code" target="blank"><img align="center" src="./images/twitter-square-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
 </p>
