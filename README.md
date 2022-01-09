@@ -51,11 +51,11 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/chryz-hub/js-projects/pull/11) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-2. 💪 Opened PR [#11](https://github.com/chryz-hub/js-projects/pull/11) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
-3. 🎉 Merged PR [#31](https://github.com/chryz-hub/py-projects/pull/31) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. 💪 Opened PR [#31](https://github.com/chryz-hub/py-projects/pull/31) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-5. 🎉 Merged PR [#22](https://github.com/chryz-hub/Chryz-Hub-Blogs/pull/22) in [chryz-hub/Chryz-Hub-Blogs](https://github.com/chryz-hub/Chryz-Hub-Blogs)
+1. 🗣 Commented on [#341](https://github.com/chryz-hub/chryz-hub.github.io/issues/341) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#11](https://github.com/chryz-hub/js-projects/pull/11) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+3. 💪 Opened PR [#11](https://github.com/chryz-hub/js-projects/pull/11) in [chryz-hub/js-projects](https://github.com/chryz-hub/js-projects)
+4. 🎉 Merged PR [#31](https://github.com/chryz-hub/py-projects/pull/31) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 💪 Opened PR [#31](https://github.com/chryz-hub/py-projects/pull/31) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 
   ## My Latest Blog Posts 👇
