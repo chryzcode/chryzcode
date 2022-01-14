@@ -60,11 +60,11 @@ Support me
 
   ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [What is Opensource🤔??](https://chryz-code.hashnode.dev/what-is-opensource-ckyd3819l00h78hs132qx48dm)
 - [Year 2022](https://chryz-code.hashnode.dev/year-2022-cky26sc8g003nnqs12bep3zno)
 - [My HNGi8 X I4G Internship Goals.](https://chryz-code.hashnode.dev/my-hngi8-x-i4g-internship-goals-ckse7y8l00guuu5s1hxxcd8xl)
 - [Django JSON Response safe=False](https://chryz-code.hashnode.dev/django-json-response-safefalse-ckr7qhs3c07ufo8s1fpaidc3g)
 - [How I Made a Country-Info Project Using Python](https://chryz-code.hashnode.dev/how-i-made-a-country-info-project-using-python-ckntr5lnj06giass117ms8psf)
-- [Python Interview Questions.](https://chryz-code.hashnode.dev/python-interview-questions-cknrscbzo15ywlps17ouk2jkc)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
