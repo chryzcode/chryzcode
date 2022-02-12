@@ -51,10 +51,10 @@ Support me
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#356](https://github.com/chryz-hub/chryz-hub.github.io/issues/356) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#1](https://github.com/chryz-code/whatsapp-clone/pull/1) in [chryz-code/whatsapp-clone](https://github.com/chryz-code/whatsapp-clone)
-3. 🎉 Merged PR [#114](https://github.com/chryz-hub/opensource-4-everyone/pull/114) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#355](https://github.com/chryz-hub/chryz-hub.github.io/pull/355) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#1](https://github.com/chryz-code/Password-generators/pull/1) in [chryz-code/Password-generators](https://github.com/chryz-code/Password-generators)
+2. 🗣 Commented on [#356](https://github.com/chryz-hub/chryz-hub.github.io/issues/356) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🎉 Merged PR [#1](https://github.com/chryz-code/whatsapp-clone/pull/1) in [chryz-code/whatsapp-clone](https://github.com/chryz-code/whatsapp-clone)
+4. 🎉 Merged PR [#114](https://github.com/chryz-hub/opensource-4-everyone/pull/114) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 5. 💪 Opened PR [#355](https://github.com/chryz-hub/chryz-hub.github.io/pull/355) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
