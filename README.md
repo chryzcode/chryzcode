@@ -60,12 +60,12 @@ Support me
 
   ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Why Work Hard When You Can Work Smart?](https://chryz-code.hashnode.dev/why-work-hard-when-you-can-work-smart-ckzjuizli08oreks1c82acrbn)
 - [How I Built my Portfolio in Less Than a Week.](https://chryz-code.hashnode.dev/how-i-built-my-portfolio-in-less-than-a-week-ckz9xvknj0ua8ccs10zd2al9w)
 - [HyperText Transfer 
 Protocol (HTTP) and Methods.](https://chryz-code.hashnode.dev/hypertext-transfer-protocol-http-and-methods-ckyy8k99i0e2p3rs1g3d04ce6)
 - [Mistakes to Avoid as a Tech Newbie in 2022](https://chryz-code.hashnode.dev/mistakes-to-avoid-as-a-tech-newbie-in-2022-ckyo2hj9x08ipels16oxtdaqx)
 - [What is Opensource🤔??](https://chryz-code.hashnode.dev/what-is-opensource-ckyd3819l00h78hs132qx48dm)
-- [Year 2022](https://chryz-code.hashnode.dev/year-2022-cky26sc8g003nnqs12bep3zno)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
