@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chryz-code&label=Profile%20views&color=0e75b6&style=flat" alt="chryz-code" /> </p>
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
@@ -39,15 +40,18 @@ Support me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
-
-
   
-  ## <h3 align="left">GitHub Stats</h3>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryz-code&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chryz-code" alt="chryz-code" /></a> </p>
+  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryz-code&" alt="chryz-code" /> 
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chryz-code&show_icons=true&locale=en" alt="chryz-code" /></p>
+  
+  
 [![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryz-code&theme=xcode)](https://git.io/chryz-code)
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryz-code&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
 
 ## My Recent Activities
 <!--START_SECTION:activity-->
