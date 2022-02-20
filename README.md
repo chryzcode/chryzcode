@@ -44,11 +44,14 @@ Support me
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryz-code&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
-
+  ### <p align="center"> My Trophies🏆</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chryz-code" alt="chryz-code" /></a> </p>
   
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryz-code&" alt="chryz-code" /> 
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chryz-code&show_icons=true&locale=en" alt="chryz-code" /></p>
+  ### <p align="center">My Contribution Streak🔥</p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryz-code&" alt="chryz-code" /></p>
+  
+  ### <p align="center">My GitHub Stats🚀</p>
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chryz-code&show_icons=true&locale=en" alt="chryz-code" /></p>
   
   
 [![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryz-code&theme=xcode)](https://git.io/chryz-code)
