@@ -7,6 +7,7 @@
 #### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest FrameWork, FastAPI, GraphQL, Docker, SQLite, PostgreSql, Heroku and Git....:octocat: an open-source enthusiast.
 
 <p align="center">
+  
   <a href="https://github.com/chryz-code?tab=followers">
     <img src="https://img.shields.io/github/followers/chryz-code?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
