@@ -57,14 +57,6 @@ Support me
   
 [![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryz-code&theme=xcode)](https://git.io/chryz-code)
 
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
 
   ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
