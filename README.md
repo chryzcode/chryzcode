@@ -59,11 +59,11 @@ Support me
 
   ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Linting your Code](https://chryz-code.hashnode.dev/linting-your-code-cl0dy1gpz043ao5nv4st34ac6)
-- [Why Write Tests?](https://chryz-code.hashnode.dev/why-write-tests-cl02u642i026uvenv7jxm1wr1)
-- [Hack Cascading Stylesheet - CSS](https://chryz-code.hashnode.dev/hack-cascading-stylesheet-css-ckzt2o3zb00qpd4s1claudmqm)
-- [Why Work Hard When You Can Work Smart?](https://chryz-code.hashnode.dev/why-work-hard-when-you-can-work-smart-ckzjuizli08oreks1c82acrbn)
-- [How I Built my Portfolio in Less Than a Week.](https://chryz-code.hashnode.dev/how-i-built-my-portfolio-in-less-than-a-week-ckz9xvknj0ua8ccs10zd2al9w)
+- [Linting your Code](https://chryzcode.hashnode.dev/linting-your-code-cl0dy1gpz043ao5nv4st34ac6)
+- [Why Write Tests?](https://chryzcode.hashnode.dev/why-write-tests-cl02u642i026uvenv7jxm1wr1)
+- [Hack Cascading Stylesheet - CSS](https://chryzcode.hashnode.dev/hack-cascading-stylesheet-css-ckzt2o3zb00qpd4s1claudmqm)
+- [Why Work Hard When You Can Work Smart?](https://chryzcode.hashnode.dev/why-work-hard-when-you-can-work-smart-ckzjuizli08oreks1c82acrbn)
+- [How I Built my Portfolio in Less Than a Week.](https://chryzcode.hashnode.dev/how-i-built-my-portfolio-in-less-than-a-week-ckz9xvknj0ua8ccs10zd2al9w)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -71,6 +71,6 @@ Support me
 <a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="./images/youtube-brands.svg" alt="https://www.youtube.com/channel/uUCEoxZzYHN1c9ISazmxeCtCQ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba/" target="blank"><img align="center" src="./images/linkedin-brands.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryzcode" target="blank"><img align="center" src="./images/twitter-square-brands.svg" alt="chryzcode" height="30" width="40" /></a> 
-<a href="https://chryz-code.hashnode.dev/" target="blank"><img align="center" src="./images/hashnode-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
-<a href="https://dev.to/chryz_code" target="blank"><img align="center" src="./images/devto-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://chryzcode.hashnode.dev/" target="blank"><img align="center" src="./images/hashnode-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://dev.to/chryzcode" target="blank"><img align="center" src="./images/devto-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
 </p>
