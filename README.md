@@ -2,7 +2,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
-# Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Olanrewaju
+# Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Olanrewaju
 #### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest FrameWork, FastAPI, GraphQL, Docker, SQLite, PostgreSql, Heroku and Git....:octocat: an open-source enthusiast.
 
 <p align="center">
