@@ -1,5 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chryzcode&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcode" /> </p>
-<p align="left"><img width=15px" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 
 # Hi, I'm Olanrewaju
