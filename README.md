@@ -45,11 +45,11 @@ Support me
 
   ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [The Choice: Python or JavaScript](https://chryzcode.hashnode.dev/the-choice-python-or-javascript-cl6hq8cuv05ydwtnvgohngdwt)
 - [Tutorial - How to build your own LinkedIn Profile Scrapper in 2022](https://chryzcode.hashnode.dev/tutorial-how-to-build-your-own-linkedin-profile-scrapper-in-2022-cl65fusc706y40ynvcbsdfxyl)
 - [Linting your Code](https://chryzcode.hashnode.dev/linting-your-code-cl0dy1gpz043ao5nv4st34ac6)
 - [Why Write Tests?](https://chryzcode.hashnode.dev/why-write-tests-cl02u642i026uvenv7jxm1wr1)
 - [Hack Cascading Stylesheet - CSS](https://chryzcode.hashnode.dev/hack-cascading-stylesheet-css-ckzt2o3zb00qpd4s1claudmqm)
-- [Why Work Hard When You Can Work Smart?](https://chryzcode.hashnode.dev/why-work-hard-when-you-can-work-smart-ckzjuizli08oreks1c82acrbn)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
