@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Olanrewaju
-#### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest FrameWork, FastAPI, GraphQL, Docker, SQLite, PostgreSql, Heroku and Git....:octocat: an open-source enthusiast.
+#### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest FrameWork, FastAPI, GraphQL, Docker, SQLite, PostgreSql, Heroku, Javascript, Jquery and Git....:octocat: an open-source enthusiast.
 
 <p align="center">
   
