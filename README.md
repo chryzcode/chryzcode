@@ -42,8 +42,6 @@ Support me
   
 [![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcode&theme=xcode)](https://git.io/chryzcode)
 
--  [Reverse Email Lookup](https://nubela.co/blog/3-simple-methods-to-do-reverse-email-lookup/?utm_campaign=writers%20domain&utm_source=social&utm_medium=review&utm_content=3%20reverse%20email%20lookup)
--  
   ## My Latest Blog Posts 👇
  
 <!-- HASHNODE_BLOG:START -->
