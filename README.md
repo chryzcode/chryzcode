@@ -2,25 +2,12 @@
 
 
 # Hi, I'm Olanrewaju
-#### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest FrameWork, FastAPI, GraphQL, Docker, SQLite, PostgreSql, Heroku, Javascript, Jquery and Git....:octocat: an open-source enthusiast.
-
-<p align="center">
-  
-  <a href="https://github.com/chryzcode?tab=followers">
-    <img src="https://img.shields.io/github/followers/chryzcode?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/chryzcode">
-    <img src="https://img.shields.io/twitter/follow/chryzcode?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/c6RhGwcP5b">
-    <img src="https://img.shields.io/discord/808727269400772638?color=green&logo=Discord&style=for-the-badge" />
-  </a>
-</p>
+#### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest Framework, FastAPI, GraphQL, Docker, SQLite, PostgreSQL, Heroku, Javascript, Jquery and Git....:octocat: an open-source enthusiast.
 
 
-- 🔭 I’m currently working and investing in my self and [chryz-hub](https://github.com/chryz-hub)....
-- 💬 Ask me about my self and what i do... 
-- 👯 I’m looking for  collaborators & contributors on [**chryz-hub**](https://github.com/chryz-hub) 
+
+- 🔭 I’m currently working and investing in myself...
+- 💬 Ask me about myself and what I do... 
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 <br>
   
@@ -39,8 +26,6 @@ Support me
   ### <p align="center">My GitHub Stats🚀</p>
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chryzcode&show_icons=true&locale=en" alt="chryzcode" /></p>
   
-  
-[![Olanrewaju's's github activity graph](https://activity-graph.herokuapp.com/graph?username=chryzcode&theme=xcode)](https://git.io/chryzcode)
 
   ## My Latest Blog Posts 👇
  
