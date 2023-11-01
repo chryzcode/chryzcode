@@ -30,11 +30,11 @@ Support me
   ## My Latest Blog Posts 👇
  
 <!-- HASHNODE_BLOG:START -->
-- [3 Simple Methods To Do Reverse Email Lookup](https://chryzcode.hashnode.dev/3-simple-methods-to-do-reverse-email-lookup)
-- [Shopit is Live 🚀](https://chryzcode.hashnode.dev/shopit-is-live-cl8278six0a3a63nvhwjqez9f)
-- [The Truth in Tech](https://chryzcode.hashnode.dev/the-truth-in-tech-cl6s8szo80bb9fdnv0ek0fboi)
-- [The Choice: Python or JavaScript](https://chryzcode.hashnode.dev/the-choice-python-or-javascript-cl6hq8cuv05ydwtnvgohngdwt)
-- [Tutorial - How to build your own LinkedIn Profile Scrapper in 2022](https://chryzcode.hashnode.dev/tutorial-how-to-build-your-own-linkedin-profile-scrapper-in-2022-cl65fusc706y40ynvcbsdfxyl)
+- [The Django Project Folder and Files Structure and Architecture 1](https://chryzcode.hashnode.dev/the-django-project-folder-and-files-structure-and-architecture-1-clo94rf60000009mfg4l07uqn)
+- [How to Create a Django Project and Application.](https://chryzcode.hashnode.dev/how-to-create-a-django-project-and-application-clnz8wvxc000209ldacm02n8n)
+- [Data Protection and Security](https://chryzcode.hashnode.dev/data-protection-and-security-clid3sh3d000309l3fvjh7y5u)
+- [Machine Learning Pipeline Architecture](https://chryzcode.hashnode.dev/machine-learning-pipeline-architecture-clgujtlkt000008l93abi3tan)
+- [Message Broker: Memphis.Dev](https://chryzcode.hashnode.dev/message-broker-memphisdev-clg11fiwe000509jr3h4oazcu)
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
