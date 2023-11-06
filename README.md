@@ -1,8 +1,16 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chryzcode&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcode" /> </p>
 
 
-# Hi, I'm Olanrewaju
-#### an experienced full-stack developer skilled in HTML, CSS, Python, Django, Javascript, Bootstrap, Django Rest Framework, FastAPI, GraphQL, Docker, SQLite, PostgreSQL, Heroku, Javascript, Jquery and Git....:octocat: an open-source enthusiast.
+# Hi, I'm Chryz
+<p>
+A professional software engineer versatile with dated technologies and building web applications, sites, and
+software, experienced in both the backend and frontend development field, featuring extensive knowledge of
+software architecture, APIs and Databases.
+</p>
+<p>
+   A technical writer with experience writing knowledge-based articles and tutorials, user manuals, online
+  help articles and documents and many more.
+</p>
 
 
 
@@ -15,6 +23,10 @@ Support me
 - <a href="https://paystack.com/pay/chryzcode">:heart: Sponsor me</a>
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcode&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+ ### <p> My Languages</p>
+ HTML5, CSS3, Bootstrap, Python, Javascript, Jquery, Django, Docker, Django Rest Framework, FastAPI, GraphQL, PostgreSQL, SQLite, etc.
+
 
 
   ### <p align="center"> My Trophies🏆</p>
@@ -39,7 +51,6 @@ Support me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ" target="blank"><img align="center" src="./images/youtube-brands.svg" alt="https://www.youtube.com/channel/uUCEoxZzYHN1c9ISazmxeCtCQ" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/olanrewaju-alaba/" target="blank"><img align="center" src="./images/linkedin-brands.svg" alt="https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/" height="30" width="40" /></a>
 <a href="https://twitter.com/chryzcode" target="blank"><img align="center" src="./images/twitter-square-brands.svg" alt="chryzcode" height="30" width="40" /></a> 
 <a href="https://chryzcode.hashnode.dev/" target="blank"><img align="center" src="./images/hashnode-brands.svg" alt="chryz_codez" height="30" width="40" /></a> 
