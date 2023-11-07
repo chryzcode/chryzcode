@@ -3,12 +3,12 @@
 
 # Hi, I'm Chryz
 <p>
-A professional software engineer versatile with dated technologies and building web applications, sites, and
-software, experienced in both the backend and frontend development field, featuring extensive knowledge of
-software architecture, APIs and Databases.
+A professional software engineer with dated technologies and building web applications, sites, and software,
+experienced in the backend and frontend development fields, featuring extensive knowledge of software
+architecture, APIs and Databases.
 </p>
 <p>
-   A technical writer with experience writing knowledge-based articles and tutorials, user manuals, online
+   A technical writer with experience in writing knowledge-based articles and tutorials, user manuals, online
   help articles and documents and many more.
 </p>
 
@@ -19,7 +19,7 @@ software architecture, APIs and Databases.
 - 📫 How to reach me: alabaolanrewaju13@gmail.com
 <br>
   
-Support me 
+Please support me 
 - <a href="https://paystack.com/pay/chryzcode">:heart: Sponsor me</a>
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcode&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
