@@ -3,13 +3,10 @@
 
 # Hi, I'm Chryz
 <p>
-A professional software engineer with dated technologies and building web applications, sites, and software,
-experienced in the backend and frontend development fields, featuring extensive knowledge of software
-architecture, APIs and Databases.
+A passionate and results-driven software engineer with a knack for problem-solving and a love for creating efficient and scalable solutions with latest industry trends and technologies.
 </p>
 <p>
-   A technical writer with experience in writing knowledge-based articles and tutorials, user manuals, online
-  help articles and documents and many more.
+  A technical writer with a passion for transforming complex concepts into clear, user-friendly documentation, I bring a wealth of experience in creating content that bridges the gap between technology and end-users.
 </p>
 
 
