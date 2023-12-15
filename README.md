@@ -6,7 +6,7 @@
 A passionate and results-driven software engineer with a knack for problem-solving and a love for creating efficient and scalable solutions with latest industry trends and technologies.
 </p>
 <p>
-  A technical writer with a passion for transforming complex concepts into clear, user-friendly documentation, I bring a wealth of experience in creating content that bridges the gap between technology and end-users.
+  A technical writer passionate about transforming complex concepts into clear, user-friendly documentation, I bring a wealth of experience in creating content that bridges the gap between technology and end-users.
 </p>
 
 
