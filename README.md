@@ -1,29 +1,37 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chryzcode&label=Profile%20views&color=0e75b6&style=flat" alt="chryzcode" /> </p>
-
-
-# Hi, I'm Chryz
+# Hi, I'm Olanrewaju Alaba👋
+<p>A <b>Software Engineer</b> and <b>Technical Writer</b></p>
+<p><a href="mailto:alabaolanrewaju13@gmail.com">alabaolanrewaju13@gmail.com</a></p>
+<p><a href="https://www.linkedin.com/in/olanrewaju-alaba/">LinkedIn</a></p>
+<p><a href="https://chryzcode.netlify.app/">Portfolio</a></p>
+<br>
 <p>
 A passionate and results-driven software engineer with a knack for problem-solving and a love for creating efficient and scalable solutions with latest industry trends and technologies.
 </p>
 <p>
   A technical writer passionate about transforming complex concepts into clear, user-friendly documentation, I bring a wealth of experience in creating content that bridges the gap between technology and end-users.
 </p>
-
-
-
-- 🔭 I’m currently working and investing in myself...
-- 💬 Ask me about myself and what I do... 
-- 📫 How to reach me: alabaolanrewaju13@gmail.com
-<br>
   
 Please support me 
 - <a href="https://paystack.com/pay/chryzcode">:heart: Sponsor me</a>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcode&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
- ### <p> My Languages</p>
- HTML5, CSS3, Bootstrap, Python, Javascript, Jquery, Django, Docker, Django Rest Framework, FastAPI, GraphQL, PostgreSQL, SQLite, etc.
 
+ ### <p> My Skiils</p>
+- **Language:** Python, JavaScript.
+- Web Technologies:
+HTML, CSS, Bootstrap, JavaScript, Ajax.
+Frameworks and Library:
+Nodejs, Django, Express, jQuery.
+APIs:
+Django Rest Framework, FastApi, GraphQL.
+Database Management:
+PostgreSQL, SQLite, MongoDB.
+Tools:
+Docker, Netlify, Heroku, Git.
+
+ <br> <br>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chryzcode&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
   ### <p align="center"> My Trophies🏆</p>
