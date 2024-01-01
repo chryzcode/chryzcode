@@ -22,6 +22,10 @@ A passionate and results-driven software engineer with a knack for problem-solvi
 - **APIs:** Django Rest Framework, FastApi, GraphQL.
 - **Database Management:** PostgreSQL, SQLite, MongoDB.
 - **Tools:** Docker, Netlify, Heroku, Git.
+- **Documentation Tools:** Microsoft Office Suite, Hemmingway, Google Docs.
+- **Markup Languages:** XML, Markdown.
+- **Collaboration Tools:** Confluence, Trello.
+
 
  <br>
  
