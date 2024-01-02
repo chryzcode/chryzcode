@@ -43,8 +43,9 @@ A passionate and results-driven software engineer with a knack for problem-solvi
 
  <br>
  
-### <p>Kindly support me</p> 
-<a href="https://github.com/sponsors/chryzcode" target="blank">:heart: Sponsor me</a>
+### <p>Kindly support me :heart: </p> 
+- <a href="https://github.com/sponsors/chryzcode" target="blank"> Sponsor me</a>
+- <a href="https://www.buymeacoffee.com/chryzcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 <br>
 
