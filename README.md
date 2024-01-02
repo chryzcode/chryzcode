@@ -44,7 +44,7 @@ A passionate and results-driven software engineer with a knack for problem-solvi
  <br>
  
 ### <p>Kindly support me</p> 
-<a href="https://paystack.com/pay/chryzcode" target="blank">:heart: Sponsor me</a>
+<a href="https://github.com/sponsors/chryzcode" target="blank">:heart: Sponsor me</a>
   
 <br>
 
