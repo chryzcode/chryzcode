@@ -36,8 +36,9 @@ A passionate and results-driven software engineer with a knack for problem-solvi
   ### <p align="center"> My Trophies🏆</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chryzcode" alt="chryzcode" /></a> </p>
   
-  ### <p align="center">My Contribution Streak🔥</p>
+  <!-- ### <p align="center">My Contribution Streak🔥</p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chryzcode&" alt="chryz-code" /></p>
+ -->
   
   ### <p align="center">My GitHub Stats🚀</p>
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chryzcode&show_icons=true&locale=en" alt="chryzcode" /></p>
