@@ -1,4 +1,5 @@
 # Hi, I'm Olanrewaju Alaba👋
+
 <p><b>Software Engineer</b> and <b>Technical Writer</b></p>
 <p><a href="mailto:alabaolanrewaju13@gmail.com" target="blank">alabaolanrewaju13@gmail.com</a>  <a href="https://chryzcode.netlify.app/" target="blank">Portfolio</a></p>
 <p><a href="https://linktr.ee/chryzcode" target="blank">https://linktr.ee/chryzcode</a></p>
