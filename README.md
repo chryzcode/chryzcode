@@ -4,7 +4,7 @@
 <p><a href="mailto:alabaolanrewaju13@gmail.com" target="blank">alabaolanrewaju13@gmail.com</a>  <a href="https://chryzcode.netlify.app/" target="blank">Portfolio</a></p>
 <p><a href="https://linktr.ee/chryzcode" target="blank">https://linktr.ee/chryzcode</a></p>
 <p><a href="https://www.linkedin.com/in/olanrewaju-alaba/" target="blank">LinkedIn</a>  <a href="https://twitter.com/chryzcode" target="blank">Twitter</a></p>
-<p><a href="https://chryzcode.hashnode.dev/" target="blank">Hashnode</a>  <a href="https://dev.to/chryzcode" target="blank">Dev.to</a> </p>
+<p><a href="https://chryzcode.hashnode.dev/" target="blank">Hashnode</a>  <a href="https://dev.to/chryzcode" target="blank">Dev.to</a> <a href="https://medium.com/@chryzcode" target="blank">Medium</a></p>
 <br>
 
 ### <p>About me</p>
