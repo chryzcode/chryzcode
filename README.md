@@ -51,13 +51,4 @@ A passionate and results-driven software engineer with a knack for problem-solvi
 - <a href="https://www.buymeacoffee.com/chryzcode" target="_blank">Buy me Coffee</a>
 <br>
 
-  ## My Latest Blog Posts 👇
- 
-<!-- HASHNODE_BLOG:START -->
-- [Best Practices For Deploying Django Applications(Production Environment and Hosting)](https://chryzcode.hashnode.dev/best-practices-for-deploying-django-applicationsproduction-environment-and-hosting-clp8bl64a002v09jtf0pwdv0i)
-- [Build a Custom Functional Django Project](https://chryzcode.hashnode.dev/build-a-custom-functional-django-project-clowmhivy00000ajt9chs26m7)
-- [Building a Custom Django Project/ Application(Folders and Files 2)](https://chryzcode.hashnode.dev/building-a-custom-django-project-applicationfolders-and-files-2-clojglj1h000009l84p4v7bjn)
-- [The Django Project Folder and Files Structure and Architecture 1](https://chryzcode.hashnode.dev/the-django-project-folder-and-files-structure-and-architecture-1-clo94rf60000009mfg4l07uqn)
-- [How to Create a Django Project and Application.](https://chryzcode.hashnode.dev/how-to-create-a-django-project-and-application-clnz8wvxc000209ldacm02n8n)
-<!-- HASHNODE_BLOG:END -->
 
