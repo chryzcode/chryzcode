@@ -18,12 +18,12 @@ A passionate and results-driven software engineer with a knack for problem-solvi
 <br>
 
  ### <p> My Skiils</p>
-- **Language:** Python, JavaScript.
-- **Web Technologies:** HTML, CSS, Bootstrap, JavaScript, Ajax.
-- **Frameworks and Library:** Nodejs, Django, Express, jQuery.
-- **APIs:** Django Rest Framework, FastApi, GraphQL.
+- **Language:** Python, JavaScript., TypeScript
+- **Web Technologies:** HTML, CSS, TailwindCSS.
+- **Frameworks and Library:** Nodejs, Django, Express.
+- **APIs:** Django Rest Framework, FastApi.
 - **Database Management:** PostgreSQL, SQLite, MongoDB.
-- **Tools:** AWS, Digital Ocean, Render, Docker, Netlify, Heroku, Git.
+- **Tools:** AWS, Digital Ocean, Render, Netlify, Heroku, Git.
 - **Documentation Tools:** Microsoft Office Suite, Hemmingway, Google Docs.
 - **Markup Languages:** XML, Markdown.
 - **Collaboration Tools:** Confluence, Trello.
