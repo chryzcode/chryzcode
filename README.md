@@ -23,7 +23,7 @@ A passionate and results-driven software engineer with a knack for problem-solvi
 - **Frameworks and Library:** Nodejs, Django, Express, React.
 - **APIs:** Django Rest Framework, FastApi.
 - **Database Management:** PostgreSQL, SQLite, MongoDB.
-- **Tools:** AWS, Digital Ocean, Render, Netlify, Heroku, Git.
+- **Tools:** AWS, Digital Ocean, Render, Netlify, Heroku, Docker, Git.
 - **Documentation Tools:** Microsoft Office Suite, Hemmingway, Google Docs.
 - **Markup Languages:** XML, Markdown.
 - **Collaboration Tools:** Confluence, Trello.
