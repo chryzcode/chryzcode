@@ -9,10 +9,7 @@
 
 ### <p>About me</p>
 <p>
-A passionate and results-driven software engineer with a knack for problem-solving and a love for creating efficient and scalable solutions with the latest industry trends and technologies.
-</p>
-<p>
-  A technical writer passionate about transforming complex concepts into clear, user-friendly documentation, I bring a wealth of experience in creating content that bridges the gap between technology and end-users.
+I'm a results-driven software engineer and technical writer passionate about building scalable solutions and making technology accessible. With blockchain and modern tech expertise, I develop secure applications and create precise, user-friendly documentation that bridges the gap between innovation and usability.
 </p>
 
 <br>
@@ -20,9 +17,9 @@ A passionate and results-driven software engineer with a knack for problem-solvi
  ### <p> My Skiils</p>
 - **Language:** Python, JavaScript., TypeScript
 - **Web Technologies:** HTML, CSS, TailwindCSS.
-- **Frameworks and Library:** Nodejs, Django, Express, React, Next.
+- **Frameworks and Library:** Nodejs, Django, Express, React, Next, Solidity.
 - **APIs:** Django Rest Framework.
-- **Database Management:** PostgreSQL, SQLite, MongoDB.
+- **Database Management:** PostgreSQL, SQLite, MongoDB. Firebase.
 - **Tools:** AWS, Digital Ocean, Render, Netlify, Heroku, Docker, Git.
 - **Documentation Tools:** Microsoft Office Suite, Hemmingway, Google Docs.
 - **Markup Languages:** XML, Markdown.
