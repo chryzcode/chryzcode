@@ -1,6 +1,6 @@
 # Hi, I'm Olanrewaju Alaba👋
 
-<p>A <b>Software Engineer</b> and <b>Technical Writer</b></p>
+<p>A <b>Software Engineer</b> || <b>Blochain Developer</b> || <b>Technical Writer</b></p>
 <p><a href="mailto:alabaolanrewaju13@gmail.com" target="blank">alabaolanrewaju13@gmail.com</a>  <a href="https://chryzcode.netlify.app/" target="blank">Portfolio</a></p>
 <p><a href="https://linktr.ee/chryzcode" target="blank">https://linktr.ee/chryzcode</a></p>
 <p><a href="https://www.linkedin.com/in/olanrewaju-alaba/" target="blank">LinkedIn</a>  <a href="https://twitter.com/chryzcode" target="blank">Twitter</a></p>
